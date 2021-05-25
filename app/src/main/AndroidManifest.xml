@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.puput.github">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/iconfinder_github_291716"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/iconfinder_github_291716"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GITHUB">
+
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name=".provider.UserContentProvider"
+            android:authorities="com.puput.github"
+            android:enabled="true"
+            android:exported="true" />
+
+        <receiver
+            android:name=".settings.ReciverAlarm"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity android:name=".settings.SettingsAlarmActivity" />
+        <activity android:name=".favorite.FavoriteUserActivity" />
+        <activity android:name=".detailuser.UserDetailActivity" />
+        <activity android:name=".MainActivity">
+
+        </activity>
+    </application>
+
+</manifest>

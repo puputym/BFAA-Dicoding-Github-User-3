@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GITHUB</string>
+    <string name="github_user">Github User</string>
+    <string name="name_user">name</string>
+    <string name="username_detail">username detail</string>
+    <string name="location">location</string>
+    <string name="company">company</string>
+    <string name="followings">Followings</string>
+    <string name="followings_detail">followings detail</string>
+    <string name="followers">Followers</string>
+    <string name="followers_detail">followers detail</string>
+    <string name="repository">Repository</string>
+    <string name="repository_detail">repository detail</string>
+    <string name="tablayout_1">Followers</string>
+    <string name="tablayout_2">Followings</string>
+    <string name="hint_search_user">Search User</string>
+    <string name="favorite">favorite</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="set_alarm">Set Reminder Alarm at 09:00</string>
+    <string name="off">OFF</string>
+    <string name="on">ON</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="language_settings">Language Settings</string>
+    <string name="back_to_main">Back To Main</string>
+    <string name="alarm_on">Alarm On</string>
+    <string name="alarm_off">Alarm Off</string>
+    <string name="alarm_message">Time to Open Github User</string>
+</resources>

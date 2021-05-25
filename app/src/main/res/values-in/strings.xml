@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GITHUB</string>
+    <string name="github_user">Github User</string>
+    <string name="name_user">Nama</string>
+    <string name="username_detail">Nama Pengguna</string>
+    <string name="location">lokasi</string>
+    <string name="company">perusahaan</string>
+    <string name="followings_detail">Detail Pengikut</string>
+    <string name="followings">Pengikut</string>
+    <string name="followers_detail">Detail Mengikuti</string>
+    <string name="followers">Mengikuti</string>
+    <string name="repository">Gudang</string>
+    <string name="repository_detail">Detail Gudang</string>
+    <string name="tablayout_1">Mengikuti</string>
+    <string name="tablayout_2">Pengikut</string>
+    <string name="hint_search_user">Pencarian Nama</string>
+    <string name="favorite">Favorit</string>
+    <string name="favorite_user">Pengguna Favorit</string>
+    <string name="set_alarm">Atur Pengingat Alarm Pada 09:00 </string>
+    <string name="off">Mati</string>
+    <string name="on">Hidup</string>
+    <string name="user_not_found">Pengguna Tidak Ditemukan</string>
+    <string name="language_settings">Pengaturan Bahasa</string>
+    <string name="back_to_main">Kembali Ke Main</string>
+    <string name="alarm_on">Alarm Hidup</string>
+    <string name="alarm_off">Alarm Mati</string>
+    <string name="alarm_message">Saatnya Buka Github User</string>
+
+
+</resources>
